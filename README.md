@@ -10,4 +10,3 @@ https://towardsdatascience.com/getting-started-with-jupyter-spark-on-the-cloud-i
 
 ### Ressouces For advanced ML _ ( study and design of special cost functions for a specific problem)
 
-
