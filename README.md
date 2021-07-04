@@ -10,3 +10,10 @@ https://towardsdatascience.com/getting-started-with-jupyter-spark-on-the-cloud-i
 
 ### Ressouces For advanced ML _ ( study and design of special cost functions for a specific problem)
 
+
+### Dimensionality reduction
+https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition (chapter 5)
+
+### Clustering chapter 11
+https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition (chapter 11)
+
