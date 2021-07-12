@@ -20,7 +20,7 @@ http://www.info.univ-angers.fr/~gh/Bis/rappels_stats.pdf
 https://www.stat4decision.com/fr/consulting-data-science/outils/methodes-statistiques/#x-section-5
 
 ### - parameter estimation Maximum likelihood
-https://www.iro.umontreal.ca/~courvila/IFT6085/03_fr_param_estimation.pdf
+https://www.iro.umontreal.ca/~courvila/IFT6085/03_fr_param_estimation.pdf  
 https://membres-ljk.imag.fr/Bernard.Ycart/smel/cours/ep/node12.html
 
 
