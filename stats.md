@@ -27,3 +27,12 @@ https://membres-ljk.imag.fr/Bernard.Ycart/smel/cours/ep/node12.html
 ### - code for statstical tests
 https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
 
+### youtube thierry ancell - cours
+https://statepid.monsite-orange.fr/page-5e824dbca463f.html
+
+### Data anlysis cheat sheets from Kaggle
+https://github.com/pavry/Cheat-Sheet-for-Data-Analysts
+https://www.kaggle.com/getting-started/167694
+
+### les methodes statistiques
+https://www.stat4decision.com/fr/consulting-data-science/outils/methodes-statistiques/#x-section-3
