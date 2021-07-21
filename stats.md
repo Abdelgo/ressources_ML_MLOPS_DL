@@ -24,4 +24,6 @@ https://www.iro.umontreal.ca/~courvila/IFT6085/03_fr_param_estimation.pdf
 https://membres-ljk.imag.fr/Bernard.Ycart/smel/cours/ep/node12.html
 
 
+### - code for statstical tests
+https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
 
