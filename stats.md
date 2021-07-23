@@ -36,3 +36,7 @@ https://www.kaggle.com/getting-started/167694
 
 ### les methodes statistiques
 https://www.stat4decision.com/fr/consulting-data-science/outils/methodes-statistiques/#x-section-3
+
+### ensae github teaching
+https://github.com/sdpython/ensae_teaching_cs
+
